@@ -3,8 +3,7 @@
 ## 1. Team / student
 
 - Name: Hoang Ich Cao Son
-- Repo/commit: local workspace
-- Date: 2026-06-29
+- MSSV: 2A202600553
 
 ## 2. Architecture
 
